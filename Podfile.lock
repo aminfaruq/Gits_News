@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - DynamicBlurView (3.0.1)
+  - HexColors (6.0.0)
+  - iCarousel (1.8.3)
+  - ImageSlideshow (1.8.0):
+    - ImageSlideshow/Core (= 1.8.0)
+  - ImageSlideshow/Alamofire (1.8.0):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.8.0)
+  - M13Checkbox (3.4.0)
+  - PopupDialog (1.0.0):
+    - DynamicBlurView (~> 3.0.1)
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+  - SkyFloatingLabelTextField (3.7.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HexColors
+  - iCarousel
+  - ImageSlideshow (~> 1.6)
+  - ImageSlideshow/Alamofire
+  - M13Checkbox
+  - PopupDialog
+  - SDWebImage
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - DynamicBlurView
+    - HexColors
+    - iCarousel
+    - ImageSlideshow
+    - M13Checkbox
+    - PopupDialog
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  DynamicBlurView: b1df5415f9bd31897549e5d7077e5ec120a4d636
+  HexColors: f8c66339541a74bb08905bfe7cd4f8cc85e9e173
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  ImageSlideshow: 197130fe349aafa9446f54277c792551d41eadf9
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  PopupDialog: 28f29a1ffe9e1fab32fb258b53d56ca31670e8a2
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: c6b98b4bfc6ae8e88edd9ba4b9f18a0137e064d6
+
+COCOAPODS: 1.7.5
